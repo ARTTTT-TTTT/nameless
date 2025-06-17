@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c8269cfdca4af1428b01b3c94687830, type: 3}
+  m_Name: Broad Sword
+  m_EditorClassIdentifier: 
+  itemName: Broad Sword
+  itemIcon: {fileID: 21300000, guid: c37b91f2ed348d24cb59881d3fb220af, type: 3}
+  itemDescription: Broad Sword
+  itemID: 1
+  itemWeight: 0
+  weaponAnimator: {fileID: 22100000, guid: a6d67719924c5f643b44a0e34d0920fc, type: 2}
+  weaponModelType: 0
+  weaponModel: {fileID: 355312524381552382, guid: a401dc23e55a5124ab1cf6c488286b2a,
+    type: 3}
+  weaponClass: 0
+  strengthREQ: 10
+  dexREQ: 10
+  intREQ: 0
+  faithREQ: 0
+  physicalDamage: 100
+  magicDamage: 0
+  fireDamage: 0
+  lightningDamage: 0
+  holyDamage: 0
+  poiseDamage: 10
+  light_Attack_01_Modifier: 1
+  light_Attack_02_Modifier: 1.2
+  heavy_Attack_01_Modifier: 2
+  heavy_Attack_02_Modifier: 2.4
+  charge_Attack_01_Modifier: 4
+  charge_Attack_02_Modifier: 4.4
+  running_Attack_01_Modifier: 3
+  rolling_Attack_01_Modifier: 3
+  backstep_Attack_01_Modifier: 3
+  baseStaminaCost: 20
+  lightAttackStaminaCostMultiplier: 0.9
+  heavyAttackStaminaCostMultiplier: 1.3
+  chargedAttackStaminaCostMultiplier: 1.5
+  runningAttackStaminaCostMultiplier: 1.1
+  rollingAttackStaminaCostMultiplier: 1.1
+  backstepAttackStaminaCostMultiplier: 1.1
+  physicalBasedDamageAbsorption: 50
+  magicBasedDamageAbsorption: 50
+  fireBasedDamageAbsorption: 50
+  lightningBasedDamageAbsorption: 50
+  holyBasedDamageAbsorption: 50
+  stability: 50
+  oh_RB_Action: {fileID: 11400000, guid: ba12e38cec8a2284591a4048ac7aff51, type: 2}
+  oh_RT_Action: {fileID: 11400000, guid: 0a9197f72c80508439f48b9aab5211be, type: 2}
+  oh_LB_Action: {fileID: 11400000, guid: b26a0d1369ca38d4f9a5225e1853d837, type: 2}
+  ashOfWarAction: {fileID: 0}
+  whooshes:
+  - {fileID: 8300000, guid: 45c70b91e25f0ef4784e42a331dfb10b, type: 3}
+  - {fileID: 8300000, guid: 8bc8a63c37f565948a09573fe678a45f, type: 3}
+  - {fileID: 8300000, guid: deabd9c03f099ff4e93d65d664762f26, type: 3}
+  - {fileID: 8300000, guid: 26c199d8574bb3b4cadf187412ce01bf, type: 3}
+  blocking:
+  - {fileID: 8300000, guid: ecdb1fac6fd54ad43a6b3aa54cf0f134, type: 3}
+  - {fileID: 8300000, guid: 55a68ddc0d9d88c4588112a11e51120e, type: 3}
+  - {fileID: 8300000, guid: 199786fd157b3dc48a8eecada0522c2c, type: 3}
+  - {fileID: 8300000, guid: baa831ac7abae784b9c2be9080ef8461, type: 3}
+  riposte_Attack_01_Modifier: 3.3
+  backstab_Attack_01_Modifier: 3.3

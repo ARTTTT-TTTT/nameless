@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 879eb77fa62856648b8c698c9fbdfbd6, type: 3}
+  m_Name: Mob Combat Stance State
+  m_EditorClassIdentifier: 
+  aiCharacterAttacks:
+  - {fileID: 11400000, guid: badaea4b7b7edf945ab04630b0452504, type: 2}
+  - {fileID: 11400000, guid: 69d2db84c40f00a4db2987f8b282f1d7, type: 2}
+  - {fileID: 11400000, guid: 24725efc0fdb31a4fb95ec27752a6a13, type: 2}
+  - {fileID: 11400000, guid: 6b66c72d4c0d6dc47a2b5bb0136b686d, type: 2}
+  - {fileID: 11400000, guid: c53317b64d6fd4742a32fa258f8d3704, type: 2}
+  - {fileID: 11400000, guid: 5fdb04033ca8336478646d24a5791772, type: 2}
+  - {fileID: 11400000, guid: 2eb5644eef41b834e8f5c57b84e95183, type: 2}
+  - {fileID: 11400000, guid: c731bced132bb0e43900f2e865de1b51, type: 2}
+  - {fileID: 11400000, guid: c7cdab3ed3f544746b2a7fab4cb9993b, type: 2}
+  - {fileID: 11400000, guid: d628b3c4244540c4ab12a346608b1d82, type: 2}
+  - {fileID: 11400000, guid: 57f044dec930438418c981fe8f2a89d7, type: 2}
+  canPerformCombo: 0
+  chanceToPerformCombo: 25
+  maximumEngagementDistance: 5
