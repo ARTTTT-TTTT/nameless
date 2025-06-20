@@ -1,9 +1,11 @@
 # 🕹️ Nameless
 
 [![Status: Final Project](https://img.shields.io/badge/Status-Final%20Project-blue)]()
+[![Status: Deprecated](https://img.shields.io/badge/Status-Deprecated-lightgrey)]()
 [![Unity](https://img.shields.io/badge/Unity-6000.0.40+-000000?style=flat&logo=unity)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 <!-- [![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-orange)]() -->
+[![Version](https://img.shields.io/github/v/release/ARTTTT-TTTT/nameless)](https://github.com/ARTTTT-TTTT/nameless/releases)
 
 > 🎮 **Nameless** is a Unity-based action-adventure game created as a final project for the course `240-332 Game Designer and Developer Module`.
 
